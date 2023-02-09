@@ -8,7 +8,7 @@
 | Name           | Description                                                                                                           |
 |----------------|-----------------------------------------------------------------------------------------------------------------------|
 |ROHIT OG          | Rohit Sharma.  Discord: `RohitOG#1380` UID: `926409865784590366`                                             |
-|SERVER MANAGER     | Looks after all the core activities related to RohitOG and his team.                                                      |
+|MANAGEMENT     | Looks after all the core activities related to RohitOG and his team.                                                      |
 
 <h3>Special Roles</h3>
 
